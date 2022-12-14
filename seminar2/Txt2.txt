@@ -1,0 +1,20 @@
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [47, 40, 71, 16, 55, 55, 71, 75, 22, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [47, 71, 40, 55, 55, 71, 75, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [71, 47, 55, 55, 71, 75, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [71, 55, 55, 71, 75, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [71, 55, 71, 75, 55, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [71, 71, 75, 55, 55, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [71, 75, 71, 55, 55, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [75, 71, 71, 55, 55, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [75, 71, 71, 55, 55, 47, 40, 22, 16, 15]
+дек. 14, 2022 1:42:58 PM seminar_homework.seminar2.ArrayTask2 bubbleSort
+INFO: [75, 71, 71, 55, 55, 47, 40, 22, 16, 15]
