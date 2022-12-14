@@ -1,4 +1,4 @@
-package seminar1_homework;
+package seminar_homework.seminar1;
 
 public class task2 {
 /**
