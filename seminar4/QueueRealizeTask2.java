@@ -2,8 +2,14 @@ package seminar_homework.seminar4;
 
 import java.util.ArrayDeque;
 
-public class QueueRealize {
-
+public class QueueRealizeTask2 {
+    /**
+     * Реализуйте очередь с помощью LinkedList 
+     * со следующими методами:enqueue() - 
+     * помещает элемент в конец очереди, dequeue() - 
+     * возвращает первый элемент из очереди и удаляет его, 
+     * first() - возвращает первый элемент из очереди, не удаляя
+     */
     public static void main(String[] args) {
         ArrayDeque<Integer> linkedList = new ArrayDeque<>();
         for (int i = 0; i < 10; i++) {
@@ -16,7 +22,7 @@ public class QueueRealize {
         System.out.println("Удаляемый элемент: " + dequeue(linkedList));
         System.out.println("Первый элемент: " + first(linkedList));
     }
-    
+
     public static ArrayDeque<Integer> enqueue(ArrayDeque<Integer> linkedList, int element) {
         linkedList.addLast(element);
 

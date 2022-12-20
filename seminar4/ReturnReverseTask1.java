@@ -2,8 +2,11 @@ package seminar_homework.seminar4;
 
 import java.util.ArrayDeque;
 
-public class ReturnReverse {
-
+public class ReturnReverseTask1 {
+    /**
+     * Пусть дан LinkedList с несколькими элементами. 
+     * Реализуйте метод, который вернет “перевернутый” список
+     */
     public static void main(String[] args) {
 
         System.out.println(getReversDeque(10));

@@ -1,9 +1,12 @@
 package seminar_homework.seminar4;
 
-import java.text.BreakIterator;
 import java.util.Scanner;
 
-public class CalcDelete {
+public class CalcDeleteTask3 {
+
+    /**
+     * В калькулятор добавьте возможность отменить последнюю операцию
+     */
     public static void main(String[] args) {
         print();
         calcDelete();
